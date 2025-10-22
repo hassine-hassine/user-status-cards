@@ -22,5 +22,5 @@ Interactive toggle button allows switching user status dynamically. Fully respon
    ```bash
    git clone https://github.com/username/user-status-cards.git
 
-![Project Screenshot](./assets/screenshot.png)
+![Project Screenshot](./assets/Screenshot.png)
 
