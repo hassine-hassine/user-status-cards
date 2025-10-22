@@ -1,0 +1,29 @@
+.Card {
+  text-align: center;
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin: 20px auto;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.Card img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 10px auto;
+}
+
+.Card h1 {
+  font-size: 1.5rem;
+  margin: 5px 0;
+  color:rgb(22, 35, 225)
+}
+
+.Card p {
+  font-size: 1.2rem;
+  color: #dd1d1d;
+  margin: 0;
+}
